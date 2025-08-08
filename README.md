@@ -8,7 +8,7 @@
 
  
 
-### :man_technologist: I'm Nikhil Singh Mahara and I'm a Front End Web Developer
+### :man_technologist: I'm Nikhil Singh Mahara and I'm a Full Stack Web Developer
 
 - 👋 Hi, I’m @nikesm98(aka Nikhil Singh Mahara).
 - 👀 I’m interested in making something cool and techy.<br>
